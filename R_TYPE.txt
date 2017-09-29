@@ -1,0 +1,6 @@
+add 000
+sub 001
+and 010
+or  011
+nor 100
+slt 101

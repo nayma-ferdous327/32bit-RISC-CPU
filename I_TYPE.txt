@@ -1,0 +1,7 @@
+addi 0001
+lw   0010
+sw   0011
+andi 0100
+ori  0101
+beq  0110
+bne  0111

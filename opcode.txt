@@ -1,0 +1,14 @@
+add 000
+sub 001
+and 010
+or  011
+nor 100
+slt 101
+addi 0001
+lw   0010
+sw   0011
+andi 0100
+ori  0101
+beq  0110
+bne  0111
+j   1111
